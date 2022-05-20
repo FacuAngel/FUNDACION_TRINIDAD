@@ -27,13 +27,13 @@ class Cuenta:
 #creo el objeto cuenta1 y lo asocio a la clase Cuenta y le paso los parametros necesarios cuando cree la clase
 cuenta1 = Cuenta("Facundo Cervera")
 #con el objeto creado llamo a la funcion mostrar 
-cuenta1.mostrar()
-cuenta1.ingresar(-12)
-cuenta1.ingresar(2000)
+#cuenta1.mostrar()
+#cuenta1.ingresar(-12)
+#cuenta1.ingresar(2000)
 
 cuenta2 = Cuenta("Federico")
 cuenta2.mostrar()
-cuenta2.retirar(10001)
+#cuenta2.retirar(10001)
 cuenta2.retirar(5000)
 
 
